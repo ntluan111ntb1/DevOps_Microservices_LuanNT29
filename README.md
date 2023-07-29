@@ -1,4 +1,4 @@
-[![kcemenike](https://circleci.com/gh/kcemenike/operationalize-ml.svg?style=svg)](https://app.circleci.com/pipelines/github/kcemenike/operationalize-ml)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ntluan111ntb1/DevOps_Microservices_LuanNT29/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ntluan111ntb1/DevOps_Microservices_LuanNT29/tree/main)
 
 ## Project Overview
 
